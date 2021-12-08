@@ -1,3 +1,32 @@
-.bg-customBar {
-    background-color: lightgray!important;
+.progress {
+    border:  2px solid #cf82a7;
+    border-radius:  8px;
 }
+
+.progress-bar {
+    background-color: #de6232;
+}
+
+.bg-customBar {
+    /*background-color: lightgray!important;*/
+    background-color: #d9c4d9!important;
+}
+
+.progress-amounts {
+    color:  #fff;
+}
+
+.progress-amounts .raised {
+    font-weight:  600;
+    color:  #fff;
+}
+
+.progress-amounts .goal {
+    font-weight:  500;
+    color:  #000;
+}
+
+.progress-amounts .supporters {
+    color:  #666;
+}
+
